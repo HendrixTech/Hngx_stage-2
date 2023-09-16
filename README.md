@@ -6,7 +6,7 @@
  ### SETUP
  ##### 1. Clone the repository
  ```bash
- git clone https://github.com/Ideeee/hngstagetwo.git
+ git clone https://github.com/HendrixTech/Hngx_stage-2.git
   ```
  ##### 2. Create a virtual environment 
  ```bash

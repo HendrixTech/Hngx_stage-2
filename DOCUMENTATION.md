@@ -27,7 +27,7 @@
   
  ## Getting Started 
   
- For instructions on how to setup the application, go to the README file here: https://github.com/Ideeee/hngstagetwo/blob/main/README.MD 
+ For instructions on how to setup the application, go to the README file here: https://github.com/HendrixTech/Hngx_stage-2/blob/main/README.md
   
  ## Endpoints 
   
@@ -76,14 +76,12 @@
      {   
          "id" : 20, 
          "name" : "Kelechi", 
-         "city": "Lagos" 
          "date_created": current UTC time, 
          "last_updated": current UTC time 
      }, 
      {   
          "id" : 2, 
-         "name" : "Adele", 
-         "city": null 
+         "name" : "Adele",
          "date_created": current UTC time, 
          "last_updated": current UTC time 
      },   // etc.... 

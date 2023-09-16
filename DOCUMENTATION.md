@@ -2,7 +2,7 @@
   
  This is a REST API built with FastAPI and PostgreSQL. It allows you to perform **CRUD (Create, Read, Update and Delete)** operations on a **Person** resource.  
   
- API URL: https://hngstagetwo-wpel.onrender.com 
+ API URL: https://crud-app-vcko.onrender.com 
   
  You can create a new resource by making a `POST` request to the `/api` endpoint without adding the `user_id` to the URL.  
   
